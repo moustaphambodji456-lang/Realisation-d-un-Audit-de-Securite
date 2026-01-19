@@ -12,6 +12,6 @@ Le responsable informatique commence par mettre en œuvre le Cadre de cybersécu
 Notre tâche consiste à examiner la portée, les objectifs et le rapport d'évaluation des risques du responsable informatique. Ensuite, vous réaliserez un audit interne en complétant une liste de contrôle et de conformité.
 
 # Situation de Botium Toys
-Dans le fichier Botium Toys_scope... vous y trouverez la portée, les objectifs et le rapport d'évaluation des risques de Botium Toys
+Dans le fichier Botium Toys_scope... vous y trouverez la portée, les objectifs et le rapport d'évaluation des risques de Botium Toys.
 # Réalisation d'Audit de sécurité
 Nous devons réaliser une contrôle des dispositifs de sécurité mis en place par Botium Toys et une évaluation de la conformité de Botium aux normes et exigences de sécurité en répondant par oui ou non. Ce travail est dans le fichier Control and Compliance checklist.
