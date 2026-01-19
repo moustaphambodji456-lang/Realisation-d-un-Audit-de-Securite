@@ -14,4 +14,4 @@ Notre tâche consiste à examiner la portée, les objectifs et le rapport d'éva
 # Situation de Botium Toys
 Dans le fichier Botium Toys_scope... vous y trouverez la portée, les objectifs et le rapport d'évaluation des risques de Botium Toys.
 # Réalisation d'Audit de sécurité
-Nous devons réaliser une contrôle des dispositifs de sécurité mis en place par Botium Toys et une évaluation de la conformité de Botium aux normes et exigences de sécurité en répondant par oui ou non. Ce travail est dans le fichier Control and Compliance checklist.
+Nous devons réaliser une contrôle des dispositifs de sécurité mis en place par Botium Toys et une évaluation de la conformité de Botium aux normes et exigences de sécurité en répondant par "oui" ou "non" à une série de question. Ce travail est dans le fichier Control and Compliance checklist.
