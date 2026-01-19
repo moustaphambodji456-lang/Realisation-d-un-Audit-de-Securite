@@ -10,3 +10,6 @@ La responsable du service informatique a décidé qu'un audit informatique inter
 Le responsable informatique commence par mettre en œuvre le Cadre de cybersécurité de l'Institut national des normes et technologies (NIST CSF), en établissant une portée et des objectifs d'audit, en dressant la liste des actifs actuellement gérés par le département informatique et en procédant à une évaluation des risques. L'objectif de l'audit est de fournir une vue d'ensemble des risques et/ou des amendes que l'entreprise pourrait encourir en raison de l'état actuel de sa posture de sécurité.
 
 Notre tâche consiste à examiner la portée, les objectifs et le rapport d'évaluation des risques du responsable informatique. Ensuite, vous réaliserez un audit interne en complétant une liste de contrôle et de conformité.
+
+# Situation de Botium Toys
+
